@@ -1,0 +1,10 @@
+# Ignore virtual environment
+fastapi_postgresql/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
